@@ -25,6 +25,6 @@ Antes de começar, garanta que os seguintes sistemas estejam instalados em seu c
 10. Aguarde o teste finalizar.
 
 ## OBS:
-O código do teste de Web está localizado em: `cypress/e2e/web/webTest.cy.js`
-O código do teste de API está localizado em: `cypress/e2e/api/apiTest.cy.js`
+- O código do teste de Web está localizado em: `cypress/e2e/web/webTest.cy.js`
+- O código do teste de API está localizado em: `cypress/e2e/api/apiTest.cy.js`
 
