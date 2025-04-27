@@ -10,6 +10,7 @@ Antes de começar, garanta que os seguintes sistemas estejam instalados em seu c
 - npm (é necessário porém ele é instalado junto com o Node na versão para Windows)
 - Git
 - Visual Studio Code
+- Para rodar o teste Web é necessário criar um arquivo chamado `cypress.env.json` na raiz do projeto com user-email e user-password
 
 
 ## Como executar o teste:
